@@ -1,2 +1,3 @@
 # hello-world
-Just for Learning
+!Just for Learning!
+Hello, I'm Kim
